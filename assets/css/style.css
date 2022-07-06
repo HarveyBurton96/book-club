@@ -2,10 +2,35 @@
 
 body {
     font-family: Source Sans Pro, Lato;
+    margin: 0;
+    padding: 0;
+    border: none;
 }
 
 
 h1, h2, h3 {
     font-family: Montserrat, Open Sans;
-    background-color: red;
+}
+
+#title {
+    color:#3D3D3D;
+    background-color: #99B4BF;
+    text-align: center;
+    font-size: 300%;
+    margin: 0;
+}
+
+#nav {
+    color:#3D3D3D;
+    background-color: #99B4BF;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    border: solid 1px #3D3D3D;
+}
+
+#nav li {
+    float: left;
+    list-style-type: none;
+    width: 33%;
 }
