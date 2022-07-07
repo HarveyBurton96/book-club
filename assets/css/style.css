@@ -18,19 +18,39 @@ h1, h2, h3 {
     text-align: center;
     font-size: 300%;
     margin: 0;
+    padding: 0;
 }
 
 #nav {
     color:#3D3D3D;
     background-color: #99B4BF;
-    text-align: center;
     display: inline-block;
     width: 100%;
-    border: solid 1px #3D3D3D;
+}
+
+#nav ul {
+    margin: 0;
+    padding: 0;
 }
 
 #nav li {
     float: left;
     list-style-type: none;
-    width: 33%;
+    width: 33.2%;
+    height: 30px;
+    margin: 0;
+    padding: 15px 0;
+    border: solid 1px #3D3D3D;
+    text-align: center;
+    font-size: 150%;
+}
+
+#nav a {
+    text-decoration: none;
+    color:#3D3D3D;
+}
+
+#nav a:hover {
+    text-decoration: none;
+    color:#fff;
 }
