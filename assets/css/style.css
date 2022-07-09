@@ -161,34 +161,36 @@ h1, h2, h3 {
 
 /* footer */
 
-#social {
+.social {
     color:#3D3D3D;
     background-color: #99B4BF;
     display: inline-block;
     width: 100%;
 }
 
-#social ul {
+.social ul {
     margin: 0;
     padding: 0;
 }
 
-#social li {
+.social li {
     float: left;
     list-style-type: none;
     width: 33.2%;
     height: 30px;
     margin: 0;
-    padding: 15px 0;
     text-align: center;
     font-size: 150%;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
-#social a {
+.social a {
     text-decoration: none;
     color:#3D3D3D;
+    padding: 1% 25%;
 }
 
-#social a:hover {
+.highlight a:hover {
     color:#fff;
 }
