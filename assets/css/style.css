@@ -25,7 +25,7 @@ h1, h2, h3 {
 .nav {
     color:#3D3D3D;
     background-color: #99B4BF;
-    display: inline-block;
+    height: 62px;
     width: 100%;
 }
 
@@ -37,11 +37,12 @@ h1, h2, h3 {
 .nav li {
     float: left;
     list-style-type: none;
-    width: 33.2%;
+    width: 33.33%;
     height: 30px;
     margin: 0;
     padding: 15px 0;
-    border: solid 1px #3D3D3D;
+    border-top: solid 1px #3D3D3D;
+    border-bottom: solid 1px #3D3D3D;
     text-align: center;
     font-size: 150%;
 }
@@ -60,6 +61,7 @@ h1, h2, h3 {
 .active a {
     color: #fff;
 }
+
 
 /* Main image section */
 
