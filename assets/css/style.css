@@ -82,7 +82,7 @@ h1, h2, h3 {
     position: absolute;
     width: 300px;
     height: 200px;
-    background-color: rgba(153, 180, 191, .7);
+    background-color: rgba(153, 180, 191, .95);
 }
 
 #quote1 {
