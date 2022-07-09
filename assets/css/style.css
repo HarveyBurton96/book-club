@@ -174,9 +174,8 @@ h1, h2, h3 {
     background-color: #99B4BF;
     width: 100%;
     height: 62px;
-    position: absolute;
+    position: fixed;
     bottom: 0;
-    margin-top: 25px;
 }
 
 .social ul {
@@ -206,4 +205,36 @@ h1, h2, h3 {
 
 .highlight a:hover {
     color:#fff;
+}
+
+/* Book images */
+
+.book {
+    height: auto;
+}
+
+.float1 {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+.synopsis {
+    width: 66%;
+    text-align: center;
+    float: left;
+    margin:10% 0;
+}
+
+hr {
+    width: 100%;
+}
+
+#dune {
+    background: url('../images/Dune1.jpg') no-repeat center right;
+    background-size: 100%;
+    height: 400px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
 }
