@@ -285,3 +285,24 @@ hr {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Sign up page */
+
+#bookshelves {
+    background: url('../images/Bookshelves.jpg') no-repeat center;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+    clear: left;
+}
+
+.form {
+    color:#3D3D3D;
+    background-color: #99B4BF;
+    opacity: 0.95;
+    position: absolute;
+    width: 450px;
+    left: 35%;
+    top: 35%;
+    padding: 50px 20px;
+}
