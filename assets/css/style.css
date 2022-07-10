@@ -294,10 +294,6 @@ hr {
 
 /* Sign up page */
 
-#signup-form {
-    overflow-y: hidden;
-}
-
 #bookshelves {
     background: url('../images/Bookshelves.jpg') no-repeat center;
     background-size: cover;
@@ -338,6 +334,8 @@ hr {
     padding-top: 15px;
 }
 
+/* Media queries */
+
 @media (max-width: 1650px) {
     #final {
         padding-bottom: 50px;
@@ -350,10 +348,19 @@ hr {
     }
 }
 
+@media (max-width: 1150px) {
+    .form {
+        width: 300px;
+        left: 30%;
+        top: 30%;
+    }
+}
+
 @media (max-width: 900px) {
     .synopsis {
-        width: 100%;
+        width: 90%;
         margin-top: 1%;
+        padding-left: 5%;
     }
 
     .number {
@@ -365,6 +372,23 @@ hr {
     }
 }   
 
+@media (max-width: 730px) {
+    .nav li {
+        width: 100%;
+        border-bottom: none;
+    }
+
+    .nav {
+        height: 186px;
+    }
+
+    .form {
+        width: 250px;
+        left: 20%;
+        top: 30%;
+    }
+}
+
 @media (max-width: 450px) {
     .number {
         width: 100%;
@@ -374,5 +398,24 @@ hr {
 
     .float1 {
         width: 100%;
+    }
+
+    .form {
+        width: 220px;
+        left: 10%;
+        top: 35%;
+    }
+}
+
+@media (max-width: 300px) {
+    .form {
+        width: 150px;
+        left: 10%;
+        top: 35%;
+    }
+
+    #submit {
+        font-size:smaller;
+        padding: 10px 0;
     }
 }
