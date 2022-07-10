@@ -37,20 +37,21 @@
     </section>
     <section class="form">
         <form>
-            <label for="fname">First name:</label>
-            <br>
-            <input type="text" id="fname" name="fname" required>
-            <br>
-            <label for="lname">Last name:</label>
-            <br>
-            <input type="text" id="lname" name="lname" required>
-            <br>
-            <label for="email">Email address:</label>
-            <br>
-            <input type="email" id="email" name="email" required>
-            <br>
-            <label>Please select your favourite generes:</label>
-            <br>
+            <div>
+                <label for="fname" class="name">First name:</label>
+                <input type="text" id="fname" name="fname" required class="name2">
+            </div>
+            <div>
+                <label for="lname" class="name">Last name:</label>
+                <input type="text" id="lname" name="lname" required class="name2">
+            </div>
+            <div>
+            <label for="email" class="name">Email address:</label>
+            <input type="email" id="email" name="email" required class="name2">
+            </div>
+            <div>
+                <label class="name">Please select your favourite generes:</label>
+            </div>
             <input type="checkbox" id="action" name="action" value="Action">
             <label for="action">Action & Adventure</label>
             <input type="checkbox" id="biography" name="biography" value="Biography">
@@ -78,7 +79,9 @@
             <input type="checkbox" id="ture" name="ture" value="Ture">
             <label for="ture">Ture crime</label>
             <br>
-            <input type="submit" value="Submit">
+            <div>
+                <input type="submit" value="Submit" id="submit">
+            </div>
         </form>
     </section>
     <footer class="social">

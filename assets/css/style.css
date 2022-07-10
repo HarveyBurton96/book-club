@@ -304,5 +304,26 @@ hr {
     width: 450px;
     left: 35%;
     top: 35%;
-    padding: 50px 20px;
+    padding: 35px 20px 50px 20px;
+}
+
+.name2 {
+    width: 100%;
+}
+
+#submit {
+    width: 50%;
+    background-color: #99B4BF;
+    opacity: inherit;
+    padding: 15px 30px; 
+    border: solid #3D3D3D 1px;
+    font-size: 100%;
+}
+
+#submit:hover {
+    color:#fff;
+}
+
+.form div {
+    padding-top: 15px;
 }
