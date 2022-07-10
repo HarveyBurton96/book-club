@@ -88,7 +88,8 @@ h1, h2, h3 {
     position: absolute;
     width: 300px;
     height: 200px;
-    background-color: rgba(153, 180, 191, .95);
+    background-color: #99B4BF;
+    opacity: .95;
 }
 
 #quote1 {
@@ -242,6 +243,10 @@ hr {
     margin-bottom: 8%;
 }
 
+#final {
+    padding-bottom: 10px;
+}
+
 #dune {
     background: url('../images/Dune1.jpg') no-repeat center right;
     background-size: 100%;
@@ -331,4 +336,43 @@ hr {
 
 .form div {
     padding-top: 15px;
+}
+
+@media (max-width: 1650px) {
+    #final {
+        padding-bottom: 50px;
+    }
+}
+
+@media (max-width: 1450px) {
+    #final {
+        padding-bottom: 75px;
+    }
+}
+
+@media (max-width: 900px) {
+    .synopsis {
+        width: 100%;
+        margin-top: 1%;
+    }
+
+    .number {
+        width: 20%;
+    }
+
+    .float1 {
+        width: 80%;
+    }
+}   
+
+@media (max-width: 450px) {
+    .number {
+        width: 100%;
+        text-align: center;
+        height: 30px;
+    }
+
+    .float1 {
+        width: 100%;
+    }
 }
