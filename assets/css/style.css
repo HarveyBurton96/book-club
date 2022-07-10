@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0;
     border: none;
+    overflow-x: hidden;
 }
 
 html{
@@ -215,7 +216,7 @@ h1, h2, h3 {
 
 .float1 {
     float: left;
-    width: 31%;
+    width: 29%;
     text-align: center;
 }
 
@@ -232,8 +233,8 @@ hr {
 }
 
 .number {
-    width: 2%;
-    text-align: center;
+    width: 4%;
+    text-align: right;
     float: left;
     font-size: larger;
     height: 184px;
@@ -287,6 +288,10 @@ hr {
 }
 
 /* Sign up page */
+
+#signup-form {
+    overflow-y: hidden;
+}
 
 #bookshelves {
     background: url('../images/Bookshelves.jpg') no-repeat center;
