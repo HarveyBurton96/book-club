@@ -231,6 +231,16 @@ hr {
     width: 100%;
 }
 
+.number {
+    width: 2%;
+    text-align: center;
+    float: left;
+    font-size: larger;
+    height: 184px;
+    margin-top: 10%;
+    margin-bottom: 8%;
+}
+
 #dune {
     background: url('../images/Dune1.jpg') no-repeat center right;
     background-size: 100%;
@@ -240,12 +250,38 @@ hr {
     margin-right: auto;
 }
 
-.number {
-    width: 2%;
-    text-align: center;
-    float: left;
-    font-size: larger;
-    height: 184px;
-    margin-top: 10%;
-    margin-bottom: 8%;
+#holmes {
+    background: url('../images/Sherlock.jpg') no-repeat center right;
+    background-size: 100%;
+    height: 400px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#frankenstein {
+    background: url('../images/Frankenstin.jpg') no-repeat center right;
+    background-size: 100%;
+    height: 400px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nile {
+    background: url('../images/Nile.jpg') no-repeat center right;
+    background-size: 100%;
+    height: 400px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#song {
+    background: url('../images/Achilles.jpg') no-repeat center right;
+    background-size: 100%;
+    height: 400px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
 }
