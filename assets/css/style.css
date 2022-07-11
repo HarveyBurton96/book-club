@@ -421,6 +421,22 @@ hr {
     .float1 {
         width: 80%;
     }
+
+    .quote {
+        width: 90%;
+        height: 120px;
+    }
+
+    #quote1{
+        padding-left: 10px;
+        padding-bottom: 10px;
+    }
+
+    #quote2 {
+        padding-left: 10px;
+        padding-top: 0;
+        padding-bottom: 10px;
+    }
 }   
 
 @media (max-width: 730px) {
@@ -490,6 +506,17 @@ hr {
 
 }
 
+@media (max-width: 650px) {
+   #quote1 {
+    left: 10px;
+    right: 50px;
+   }
+
+   #quote2 {
+    left: 10px;
+   }
+}
+
 @media (max-width: 615px) {
     .carrying {
         height: 300px;
@@ -507,6 +534,10 @@ hr {
 
     #right_side {
         height: 110%;
+    }
+
+    .quote {
+        height: 140px;
     }
 }
 
@@ -544,6 +575,29 @@ hr {
     }
 
     .reading1 {
+        height: 200px;
+    }
+}
+
+@media (max-width: 395px) {
+    .quote {
+        height: 170px;
+    }
+}
+
+@media (max-width: 350px) {
+    #main_image {
+        height: 600px;
+    }
+
+    #hero_image {
+    height: 600px;
+    background-size: 150%;
+    }
+}
+
+@media (max-width: 308px) {
+    .quote {
         height: 200px;
     }
 }
