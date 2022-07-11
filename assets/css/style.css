@@ -330,6 +330,10 @@ hr {
     float: left;
 }
 
+.submit_button {
+    margin-top: 210px;
+}
+
 /* Media queries */
 
 @media (max-width: 1650px) {
@@ -502,6 +506,10 @@ hr {
 
     .checkbox {
         width: 100%;
+    }
+
+    .submit_button {
+        margin-top: 420px;
     }
 }
 
