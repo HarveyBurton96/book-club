@@ -242,48 +242,43 @@ hr {
 }
 
 #dune {
-    background: url('../images/Dune1.jpg') no-repeat center right;
-    background-size: 100%;
     height: 400px;
     width: 250px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2%;
 }
 
 #holmes {
-    background: url('../images/Sherlock.jpg') no-repeat center right;
-    background-size: 100%;
     height: 400px;
     width: 250px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2%;
 }
 
 #frankenstein {
-    background: url('../images/Frankenstin.jpg') no-repeat center right;
-    background-size: 100%;
     height: 400px;
     width: 250px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2%;
 }
 
 #nile {
-    background: url('../images/Nile.jpg') no-repeat center right;
-    background-size: 100%;
     height: 400px;
     width: 250px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2%;
 }
 
 #song {
-    background: url('../images/Achilles.jpg') no-repeat center right;
-    background-size: 100%;
     height: 400px;
     width: 250px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2%;
 }
 
 /* Sign up page */
