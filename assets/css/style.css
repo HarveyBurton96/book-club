@@ -114,12 +114,9 @@ h1, h2, h3 {
 }
 
 .reading1 {
-    background: url('../images/Reading1.jpg') no-repeat center right 98%;
-    background-size: 50%;
-    height: 400px;
-    width: 50%;
     float: left;
     margin:auto 0;
+    padding: 0 1%;
 }
 
 #left_side {
@@ -152,12 +149,9 @@ h1, h2, h3 {
 }
 
 .carrying {
-    background: url('../images/Carrying_books.jpg') no-repeat center left 98%;
-    background-size: 50%;
-    height: 400px;
-    width: 50%;
     float: right;
     margin:auto 0;
+    padding: 0 1%;
 }
 
 .join_text_left {
@@ -350,13 +344,6 @@ hr {
 }
 
 @media (max-width: 1530px) {
-    .reading1 {
-        background-size: 75%;
-    }
-
-    .carrying {
-        background-size: 75%;
-    }
 
     #right_side {
         width: 40%;
@@ -379,9 +366,14 @@ hr {
     }
 }
 
-@media (max-width: 1160px) {
+@media (max-width: 1266px) {
+    .carrying img {
+    width: 450px;
+    height: 300px;
+    }
+
     #right_side {
-        padding-top: 80px;
+        padding-top: 60px;
     }
 }
 
@@ -394,16 +386,14 @@ hr {
 }
 
 @media (max-width: 980px) {
-    .reading1 {
-        background-size: 100%;
-    }
-
-    .carrying {
-        background-size: 100%;
+    .carrying img {
+        width: 400px;
+        height: 266px;
     }
 
     #right_side {
-        padding-top: 70px;
+        padding-top: 20px;
+        margin-bottom: 60px;
     }
 }
 
@@ -439,6 +429,66 @@ hr {
     }
 }   
 
+@media (max-width: 850px) {
+    .carrying img {
+        width: 350px;
+        height: 233px;
+        padding-top:25px;
+    }
+}
+
+@media (max-width: 748px) {
+    .carrying img {
+        width: 350px;
+        height: 233px;
+        padding-top: 0px;
+        margin-bottom: 62px;
+    }
+        
+    .carrying {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+
+    .reading1 {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+
+    #right_side {
+        float: none;
+        text-align: center;
+        width: inherit;
+        padding-top: 2%;
+        padding-bottom: 0;
+        margin-right: 0;
+        margin-left: 15%;
+        
+    }
+
+    #left_side {
+        float: none;
+        text-align: center;
+        width: inherit;
+        padding-top: 2%;
+        padding-bottom: 0;
+        margin-right: 0;
+        margin-left: 15%;
+    }
+
+    .join_text_left {
+        text-align: center;
+        width: 80%;
+    }
+
+    .join_text_right {
+        text-align: center;
+        width: 80%;
+    }
+}
+
 @media (max-width: 730px) {
     .nav li {
         width: 100%;
@@ -458,52 +508,6 @@ hr {
     .checkbox {
         width: 100%;
     }
-
-    .reading1 {
-        background-size: 100%;
-        float: none;
-        text-align: center;
-        width: 100%;
-    }
-
-    .carrying {
-        background-size: 100%;
-        float: none;
-        text-align: center;
-        width: 100%;
-    }
-
-    #right_side {
-        float: none;
-        text-align: center;
-        width: inherit;
-        padding-top: 2%;
-        padding-bottom: 8%;
-        margin-right: 0;
-        margin-left: 15%;
-        
-    }
-
-    #left_side {
-        float: none;
-        text-align: center;
-        width: inherit;
-        padding-top: 2%;
-        padding-bottom: 5%;
-        margin-right: 0;
-        margin-left: 15%;
-    }
-
-    .join_text_left {
-        text-align: center;
-        width: 80%;
-    }
-
-    .join_text_right {
-        text-align: center;
-        width: 80%;
-    }
-
 }
 
 @media (max-width: 650px) {
@@ -517,39 +521,18 @@ hr {
    }
 }
 
-@media (max-width: 615px) {
-    .carrying {
-        height: 300px;
-        padding-bottom: 62px;
-    }
-
-    .reading1 {
-        height: 300px;
-    }
-}
-
 @media (max-width: 590px) {
     #left_side {
         height: 100%;
     }
 
     #right_side {
-        height: 110%;
+        height: 100%;
+        margin-bottom: 0;
     }
 
     .quote {
         height: 150px;
-    }
-}
-
-@media (max-width: 465px) {
-    .carrying {
-        height: 250px;
-        padding-bottom: 100px;
-    }
-
-    .reading1 {
-        height: 250px;
     }
 }
 
@@ -571,20 +554,21 @@ hr {
     }
 }
 
-@media (max-width: 465px) {
-    .carrying {
-        height: 200px;
-    }
-
-    .reading1 {
-        height: 200px;
-    }
-}
-
 @media (max-width: 400px) {
     .form {
         top: 27%;
     }
+
+    .carrying img { 
+        width: 250px;
+        height: 166px;
+    }
+
+    .reading1 img {
+        width: 250px;
+        height: 333px;
+    }
+
 }
 
 @media (max-width: 395px) {
