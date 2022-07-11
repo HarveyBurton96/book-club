@@ -305,6 +305,11 @@ hr {
     padding: 35px 20px 50px 20px;
 }
 
+.form h2 {
+    margin: 0;
+    text-decoration: underline;
+}
+
 .name2 {
     width: 100%;
 }
@@ -505,7 +510,7 @@ hr {
     .form {
         width: 250px;
         left: 20%;
-        top: 25%;
+        top: 23%;
     }
 
     .checkbox {
@@ -557,13 +562,13 @@ hr {
     .form {
         width: 220px;
         left: 10%;
-        top: 23%;
+        top: 22%;
     }
 }
 
 @media (max-width: 400px) {
     .form {
-        top: 27%;
+        top: 26%;
     }
 
     .carrying img { 
@@ -603,7 +608,7 @@ hr {
     .form {
         width: 150px;
         left: 10%;
-        top: 28%;
+        top: 26%;
     }
 
     #submit {
