@@ -309,7 +309,7 @@ hr {
     position: absolute;
     width: 450px;
     left: 35%;
-    top: 35%;
+    top: 30%;
     padding: 35px 20px 50px 20px;
 }
 
@@ -332,6 +332,13 @@ hr {
 
 .form div {
     padding-top: 15px;
+}
+
+.checkbox {
+    width: 50%;
+    padding: 0;
+    margin: 0;
+    float: left;
 }
 
 /* Media queries */
@@ -385,7 +392,11 @@ hr {
     .form {
         width: 250px;
         left: 20%;
-        top: 30%;
+        top: 25%;
+    }
+
+    .checkbox {
+        width: 100%;
     }
 }
 
@@ -403,7 +414,7 @@ hr {
     .form {
         width: 220px;
         left: 10%;
-        top: 35%;
+        top: 30%;
     }
 }
 
@@ -411,7 +422,7 @@ hr {
     .form {
         width: 150px;
         left: 10%;
-        top: 35%;
+        top: 30%;
     }
 
     #submit {
