@@ -567,7 +567,7 @@ hr {
     .form {
         width: 220px;
         left: 10%;
-        top: 30%;
+        top: 23%;
     }
 }
 
@@ -578,6 +578,12 @@ hr {
 
     .reading1 {
         height: 200px;
+    }
+}
+
+@media (max-width: 400px) {
+    .form {
+        top: 27%;
     }
 }
 
@@ -606,7 +612,7 @@ hr {
     .form {
         width: 150px;
         left: 10%;
-        top: 30%;
+        top: 28%;
     }
 
     #submit {
