@@ -162,6 +162,21 @@ h1, h2, h3 {
     font-size: 110%;
 }
 
+/* Video */
+
+.video {
+    height: 315px;
+    float:left;
+    width: 100%;
+    padding-top: 40px;
+    text-align: center;
+}
+
+iframe {
+    margin: 0 0 60px;
+    text-align: center;
+}
+
 /* footer */
 
 .social {
