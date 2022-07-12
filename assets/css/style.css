@@ -128,7 +128,7 @@ h1, h2, h3 {
     padding-bottom: 105px;
 }
 
-.join_text_right {
+.text_left {
     width: 100%;
     text-align: right;
     padding-top: 15px;
@@ -153,7 +153,7 @@ h1, h2, h3 {
     padding: 0 1%;
 }
 
-.join_text_left {
+.text_right {
     width: 100%;
     text-align: left;
     padding-top: 15px;
@@ -208,7 +208,7 @@ h1, h2, h3 {
     height: auto;
 }
 
-.float1 {
+.front_cover {
     float: left;
     width: 29%;
     text-align: center;
@@ -411,7 +411,7 @@ hr {
         width: 20%;
     }
 
-    .float1 {
+    .front_cover {
         width: 80%;
     }
 
@@ -481,12 +481,12 @@ hr {
         margin-left: 15%;
     }
 
-    .join_text_left {
+    .text_right {
         text-align: center;
         width: 80%;
     }
 
-    .join_text_right {
+    .text_left {
         text-align: center;
         width: 80%;
     }
@@ -550,7 +550,7 @@ hr {
         height: 30px;
     }
 
-    .float1 {
+    .front_cover {
         width: 100%;
     }
 
