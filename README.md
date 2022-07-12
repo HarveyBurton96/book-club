@@ -40,7 +40,8 @@
             <ul>
                 <li>The footer contains three links to Facebook, Instagram, and Twitter.</li>
                 <li>These are shown as the well-known logo of each social media site.</li>
-                <!--Here goes the footer screenshot-->
+                <!--Here goes the footer screenshot-->  
+            </ul>
         <li>
             <h3>The Top 5 Books</h3>
         </li>
@@ -60,4 +61,73 @@
                 <li>The sign up form allows the user to join the book club which is the overall goal of the website.</li>
                 <!--Here goes the sign up form screenshot-->
             </ul>
+    </ul>
+
+<h2>Surface</h2>
+    <ul>
+        <li>
+            <h3>Colours</h3>
+        </li>
+            <ul>
+                <li>The background colour used is #99B4BF and the colour of the text is #3D3D3D these both contrast well with a contrast ration of 4.98 : 1.</li>
+            </ul>
+        <li>
+            <h3>Fonts</h3>
+        </li>
+            <ul>
+                <li>The fonts used for the h1, h2, h3 is Montserrat with a backup of Open Sans. The font used for the rest of the text is Source Sans Pro with a backup of Lato.</li>
+            </ul>
+        <li>
+            <h3>Images</h3>
+        </li>
+            <ul>
+                <li>The images were found on https://www.pexels.com/ and the book covers were found on Waterstones (please see the links below)</li>
+                <!--Link to part of read.me-->
+            </ul>
+    </ul>
+
+<h2>Technologies used</h2>
+    <ul>
+        <li>
+            <h3>HTML5</h3>
+        </li>
+            <ul>
+                <li>As a structure language.</li>
+            </ul>  
+        <li>
+            <h3>CSS3</h3>
+        </li>
+            <ul>
+                <li>As a style language.</li>
+            </ul> 
+        <li>
+            <h3>Font Awesome</h3>
+        </li>
+            <ul>
+                <li>As an icon library for social links.</li>
+            </ul> 
+        <li>
+            <h3>Google fonts</h3>
+        </li>
+            <ul>
+                <li>As a font resource.</li>
+            </ul> 
+        <li>
+            <h3>GitHub</h3>
+        </li>
+            <ul>
+                <li>As a software hosting platform.</li>
+            </ul> 
+        <li>
+            <h3>Git</h3>
+        </li>
+            <ul>
+                <li>As a version control tracking system.</li>
+            </ul> 
+        <li>
+            <h3>Gitpod</h3>
+        </li>
+            <ul>
+                <li>As a development hosting platform.</li>
+            </ul> 
     </ul>
