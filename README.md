@@ -131,3 +131,29 @@
                 <li>As a development hosting platform.</li>
             </ul> 
     </ul>
+<h2>Testing</h2>
+    <ul>
+        <li>
+            <h3>Functionality and compatibility testing</h3>
+        </li>
+        <p>I have used Chrome developer tools throughout the project for testing and solving style and responsiveness problems.</p>
+        <p>I have tested this site across multiple virtual devices. I have also checked the site on iPhone, iPad, Samsung phone.</p>
+        <li>
+            <h3>Issues found during site development</h3>
+        </li>
+        <p>The checkbox options on the sign up page was when the screen shrunk the text and check boxes was broken up at certain widths.</p>
+        <!-- image of code before with br -->
+        <p>I used HTML to put the checkboxes in divs and then applied CSS style to those divs given them a width of 50%. The used media queries for when appropriate to make them a width of 100%.</p>
+        <br>
+        <p>Images where not showing once the site was pushed to live.</p>
+        <!-- Show no image  -->
+        <p>I found I have not put the background url was not in comma’s once I had added these in the images then appeared.</p>
+         <li>
+            <h3>Performance testing</h3>
+        </li>
+        <!-- Ask about lighthouse performance and best practices -->
+        <li>
+            <h3>Code Validation</h3>
+        </li>
+        <p>I used https://jigsaw.w3.org/css-validator/ and https://validator.w3.org/ to test CSS and HTML respectively.</p>
+         <!-- Add links  -->
