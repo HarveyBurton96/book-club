@@ -157,3 +157,75 @@
         </li>
         <p>I used https://jigsaw.w3.org/css-validator/ and https://validator.w3.org/ to test CSS and HTML respectively.</p>
          <!-- Add links  -->
+    </ul>
+<h2>Deployment</h2>
+<p>The site was deployed to GitHub pages. The steps to deploy the site are as follows:</p>
+    <ul>
+        <li>
+            <p>In the GitHub repository, go to the ‘Settings’ tab.</p>
+        </li>
+        <li>
+            <p>They select the ‘Pages’ option in the ‘Code and automation’ section.</p>
+        </li>
+        <li>
+            <p>From the source dropdown select ‘Branch: main’ and then select ‘Save’.</p>
+        </li>
+        <li>
+            <p>The site is now published at https://harveyburton96.github.io/book-club/</p>
+        </li>
+    </ul>
+<h2>Credits</h2>
+    <ul>
+        <li>
+            <p>To complete this project I used Code Institute student template: gitpod-full-template which is located at https://github.com/Code-Institute-Org/gitpod-full-template</p>
+        </li>
+        <li>
+            <p>Ideas and knowledge</p>
+        </li>
+            <ul>
+                <li>https://www.w3schools.com/</li>
+                <li>Code institute Diploma in Full Stack Software Development (Common Curriculum) course</li>
+            </ul> 
+        <li>
+            <p>Code</p>
+        </li>
+            <ul>
+                <li>Code was used from the love-running example from the code institute course.</li>
+            </ul> 
+        <li>
+            <p>Content</p>
+        </li>
+            <ul>
+                <li>Quotes were taken from</li>
+                    <ul>
+                        <li>https://www.oprahdaily.com/life/g30000006/best-quotes-about-reading/?slide=12</li>
+                        <li>https://www.oprahdaily.com/life/g30000006/best-quotes-about-reading/?slide=24</li>
+                    </ul> 
+            </ul> 
+            <ul>
+                <li>Why join us text was taken from</li>
+                    <ul>
+                        <li>https://baos.pub/8-life-changing-benefits-of-reading-30-minutes-a-day-fa95ab1efdea</li>
+                        <li>https://www.lifehack.org/articles/lifestyle/10-benefits-reading-why-you-should-read-everyday.html</li>
+                    </ul> 
+            </ul>
+            <ul>
+                <li>Top 5 book page synopsis and book cover image was taken from waterstones</li>
+                    <ul>
+                        <li>Dune: https://www.waterstones.com/book/dune/frank-herbert/9781473233959</li>
+                        <li>Sherlock Holmes: https://www.waterstones.com/book/the-complete-sherlock-holmes/arthur-conan-doyle/p-d-james/9780099529934</li>
+                        <li>Frankenstein: https://www.waterstones.com/book/frankenstein/mary-shelley/9780141198965</li>
+                        <li>Death on the Nile: https://www.waterstones.com/book/death-on-the-nile/agatha-christie/9780008328917</li>
+                        <li>The song of Achilles: https://www.waterstones.com/book/the-song-of-achilles/madeline-miller/9781408891384</li>
+                    </ul> 
+            </ul>
+            <ul>
+                <li>Images</li>
+                    <ul>
+                        <li>https://www.pexels.com/photo/man-reading-a-book-3118214/</li>
+                        <li>https://www.pexels.com/photo/photo-of-woman-carrying-stack-of-books-6344096/</li>
+                        <li>https://www.pexels.com/photo/light-inside-library-590493/</li>
+                        <li>https://www.pexels.com/photo/books-on-white-wooden-shelf-9565965/</li>
+                    </ul> 
+            </ul>
+    </ul>
