@@ -3,7 +3,7 @@
 <p>User can use this website to see what joining a book club will give them. On our top 5 books page they will see a selection of favourite books of the community and includes a synopsis for them to see if they would enjoy it as well.</p>
 
 <!--Here goes the screen images -->
-
+![responsive](assets/images/responsive.jpg)
 <h2>Features</h2>
     <ul>
         <li>
