@@ -1,8 +1,7 @@
 <h1>№ 25 Book Club</h1>
 <p>This book club website is a place for people between the ages of 20 to 30 looking for an active reading community. This club offers a wide range of genres for people to enjoy.</p>
 <p>User can use this website to see what joining a book club will give them. On our top 5 books page they will see a selection of favourite books of the community and includes a synopsis for them to see if they would enjoy it as well.</p>
-<br>
-![responsive](assets/images/responsive.jpg)
+![responsive]('assets/images/responsive.jpg')
 <h2>Features</h2>
     <ul>
         <li>
@@ -237,21 +236,3 @@
     </ul>
 <h2>Screenshots</h2>
 <p>Project screenshots</p>
-<br>
-![screenshot1](assets/images/screenshot1.jpg)
-<br>
-![screenshot2](assets/images/screenshot2.jpg)
-<br>
-![screenshot3](assets/images/screenshot3.jpg)
-<br>
-![screenshot4](assets/images/screenshot4.jpg)
-<br>
-![screenshot5](assets/images/screenshot5.jpg)
-<br>
-![screenshot6](assets/images/screenshot6.jpg)
-<br>
-![screenshot7](assets/images/screenshot7.jpg)
-<br>
-![screenshot8](assets/images/screenshot8.jpg)
-<br>
-![screenshot9](assets/images/screenshot9.jpg)
