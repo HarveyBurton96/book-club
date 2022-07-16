@@ -143,7 +143,8 @@
             <h3>Issues found during site development</h3>
         </li>
         <p>The checkbox options on the sign up page when the screen shrunk the text and check boxes was broken up at certain widths.</p>
-        ![checkboxes](assets/images/checkbox.jpg)
+
+![checkboxes](assets/images/checkbox.jpg)
         <p>I used HTML to put the checkboxes in divs and then applied CSS style to those divs given them a width of 50%. Then used media queries for when appropriate to make them a width of 100%.</p>
         <br>
         <p>Images where not showing once the site was pushed to live.</p>
@@ -163,7 +164,14 @@
             <h3>Code Validation</h3>
         </li>
         <p>I used https://jigsaw.w3.org/css-validator/ and https://validator.w3.org/ to test CSS and HTML respectively.</p>
-         <!-- Add links  -->
+        <p>Validator response of HTML for 'Home' page</p>
+![Validator-home](assets/images/HTML-Validator-Index.jpg)
+        <p>Validator response of HTML for 'Top 5 Books' page</p>
+![Validator-top](assets/images/HTML-Validator-top.jpg)
+        <p>Validator response of HTML for 'Sign Up' page</p>
+![Validator-signup](assets/images/HTML-Validator-signup.jpg)
+        <p>Validator response of CSS</p>
+![Validator-CSS](assets/images/CSS-Validator.jpg)
     </ul>
 <h2>Deployment</h2>
 <p>The site was deployed to GitHub pages. The steps to deploy the site are as follows:</p>
