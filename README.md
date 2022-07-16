@@ -1,7 +1,8 @@
 <h1>№ 25 Book Club</h1>
 <p>This book club website is a place for people between the ages of 20 to 30 looking for an active reading community. This club offers a wide range of genres for people to enjoy.</p>
 <p>User can use this website to see what joining a book club will give them. On our top 5 books page they will see a selection of favourite books of the community and includes a synopsis for them to see if they would enjoy it as well.</p>
-![responsive]('assets/images/responsive.jpg')
+
+![responsive](assets/images/responsive.jpg)
 <h2>Features</h2>
     <ul>
         <li>
@@ -12,7 +13,8 @@
                 <li>The navigation links are: Home, Top 5 Books, and Sign Up. Each of these links will take you to a unique page.</li>
                 <li>To highlight which page the user is currently on an underline will appear on the corresponding navigation bar link. Also, when the user hovers over another of the navigation links an underline will appear when it can be selected. </li>
                 <li>The navigation bar allows the user to quickly and easily transvers the website to find the information they are seeking. On all pages the navigation bar and title are in the same position to allow the user to intuitively use the website.</li>
-                ![header](assets/images/Header.jpg)
+
+![header](assets/images/Header.jpg)
             </ul>
         <li>
             <h3>The hero image</h3>
@@ -151,7 +153,8 @@
             <h3>Performance testing</h3>
         </li>
         <p>Lighthouse report for ‘Home’ page</p>
-        ![lighthouse-home](assets/images/lighthouse-index.jpg)
+
+![lighthouse-home](assets/images/lighthouse-index.jpg)
         <p>Lighthouse report for ‘Top 5 Books’ page</p>
         ![lighthouse-top](assets/images/lighthouse-top.jpg)
         <p>Lighthouse report for ‘Sign Up’ page</p>
@@ -236,3 +239,21 @@
     </ul>
 <h2>Screenshots</h2>
 <p>Project screenshots</p>
+
+![screenshot1](assets/images/screenshot1.jpg)
+
+![screenshot2](assets/images/screenshot2.jpg)
+
+![screenshot3](assets/images/screenshot3.jpg)
+
+![screenshot4](assets/images/screenshot4.jpg)
+
+![screenshot5](assets/images/screenshot5.jpg)
+
+![screenshot6](assets/images/screenshot6.jpg)
+
+![screenshot7](assets/images/screenshot7.jpg)
+
+![screenshot8](assets/images/screenshot8.jpg)
+
+![screenshot9](assets/images/screenshot9.jpg)
