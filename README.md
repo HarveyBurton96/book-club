@@ -107,11 +107,11 @@ User can use this website to see what joining a book club will give them. On our
 
     - Lighthouse report for ‘Top 5 Books’ page
 
-    ![lighthouse-top](assets/images/lighthouse-top.jpg)
+    ![lighthouse-top](assets/images/Lighthouse-top1.jpg)
 
     - Lighthouse report for ‘Sign Up’ page
 
-    ![lighthouse-signup](assets/images/lighthouse-signup.jpg)
+    ![lighthouse-signup](assets/images/lighthouse-sign1.jpg)
 
 - ### Code Validation
     - I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) and [Validator w3](https://validator.w3.org/) to test CSS and HTML respectively.
